@@ -2,7 +2,6 @@ my $filename = "access.log";
 
 open(FH, $filename) or die "$!";
 
-print $logl."\n";
 my @lines = <FH>;
 foreach my $d (@lines) {
   chomp $d;
