@@ -1,2 +1,2 @@
 # log-analysis
-for apache
+テスト用のに立てているapacheのログが手元にあったので、いろいろ調べてみたくなった。
